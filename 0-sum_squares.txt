@@ -1,0 +1,6 @@
+let input1=x
+let input2=y
+let square1=x*x;
+let square2=y*y;
+let sum=square1+square2
+print(sum)
